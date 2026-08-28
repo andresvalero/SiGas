@@ -15,3 +15,8 @@ Los Alumnos le pueden dar al jefe de laboratorio un reporte de cuales son las co
 3. Objetivo General
 Desarrollar, gestionar y desplegar el Sistema de Gestión de Activos (SIGAS) para optimizar el control de inventario y reducir significativamente los tiempos de respuesta de mantenimiento. Esto se logra mediante la automatización de auditorías físicas con códigos QR y la centralización de la información en un panel web administrativo, aplicando metodologías DevOps para asegurar la escalabilidad y disponibilidad del sistema.
 
+BACKEND: Java
+FRONTEND: HTML5, CSS3, JavaScript (Bootstrap)
+BD: MySQL
+Serv.: Ubuntu Server (Linux)
+API: Librería Html5Qrcode (para activar la cámara del dispositivo)
