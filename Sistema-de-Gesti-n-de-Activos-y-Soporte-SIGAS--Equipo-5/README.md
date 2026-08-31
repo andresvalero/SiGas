@@ -2,9 +2,8 @@
 Sistema de Gestión de Activos y Soporte (SIGAS)
 
 # Integrantes del equipo
-* Cristian Eron Medina Ulloa
-* Carlos Alan Ruiz Alvarez
-* Angel Osiel Martinez Ibarra
+
+* José Andrés Valero Mejia
 * Axel Emmanuel Nava
 
 # Desc. del proyecto (resumen)
