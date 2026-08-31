@@ -32,6 +32,8 @@ Desarrollar, gestionar y desplegar el Sistema de Gestión de Activos (SIGAS) par
 Automatización de auditorías físicas con códigos QR
 Centralización de la información en un panel web administrativo
 Aplicación de metodologías DevOps para asegurar escalabilidad y disponibilidad del sistema
+
+
 4. Stack Tecnológico
 Capa	Tecnología
 Backend	Java
