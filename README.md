@@ -7,15 +7,15 @@ Documento de Definición de Proyecto — Materia de DevOps
 
 SIGAS es un Sistema de Gestión de Activos diseñado para centralizar, monitorear y administrar el ciclo de vida de los activos físicos y tecnológicos del laboratorio. El sistema cuenta con:
 
-Interfaces web interactivas
-Un panel de administración robusto
-Gestión de racks
+Interfaces web interactivas,
+Un panel de administración robusto,
+Gestión de racks,
 Un módulo especializado de auditoría mediante códigos QR
 
 Su uso principal es proporcionar una única plataforma para el control de inventario, permitiendo a los equipos:
 
-Localizar equipos rápidamente
-Auditar el estado de los mismos en tiempo real
+Localizar equipos rápidamente,
+Auditar el estado de los mismos en tiempo real y
 Gestionar mantenimientos de forma eficiente
 
 Todo esto integrando buenas prácticas de despliegue y control de versiones.
