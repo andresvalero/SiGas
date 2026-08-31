@@ -1,0 +1,4 @@
+Archivos principales: login.html, estilos_login.css, auth.js.
+* Diseño de la interfaz: Pantalla centrada con el logotipo del ITS y un formulario de acceso institucional.
+* Elementos Principales: Campos de "Correo Institucional" y "Contraseña", botón de "Ingresar", y enlace de recuperación de contraseña.
+* Funcionalidad: Valida las credenciales del usuario y detecta automáticamente su rol (Administrador, Docente o Alumno) para redirigirlo a su portal correspondiente.

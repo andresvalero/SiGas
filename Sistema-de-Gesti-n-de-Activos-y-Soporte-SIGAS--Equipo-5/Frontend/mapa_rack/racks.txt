@@ -1,0 +1,4 @@
+Archivos principales: consulta_racks.html, mapa_interactivo.css, estado_racks.js.
+* Diseño de la interfaz: Mapa visual interactivo de solo lectura que muestra la distribución física de los racks en el laboratorio.
+* Elementos Principales: Botones por cada Rack (Rack 1, Rack 2, etc.) con colores de estado, y una lista desplegable que detalla los equipos.
+* Funcionalidad: Permite a alumnos y docentes consultar gráficamente qué computadoras y equipos están libres (marcados en verde) o prestados/dañados (rojo) antes de utilizarlos, sin permitir la edición de datos.

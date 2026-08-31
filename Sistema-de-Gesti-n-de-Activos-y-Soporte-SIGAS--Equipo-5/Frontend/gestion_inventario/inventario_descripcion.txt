@@ -1,0 +1,5 @@
+Archivos principales: gestion_equipos.html, gestion_materiales.html, estilos_inventario.css.
+
+Diseño de la interfaz: Pantalla con tablas dinámicas que muestran el catálogo de equipos principales y materiales. Incluye una barra de búsqueda superior.
+
+Elementos Principales: Botón "+ Agregar Equipo Nuevo", iconos de "Lápiz" (editar) y "Basura" (dar de baja), y filtros por tipo de activo.

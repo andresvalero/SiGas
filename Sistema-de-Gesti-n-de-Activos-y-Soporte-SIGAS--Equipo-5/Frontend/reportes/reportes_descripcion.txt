@@ -1,0 +1,4 @@
+Archivos principales: dashboard_reportes.html, generar_pdf.js.
+* Diseño de la interfaz: Panel de control para visualización de gráficas y estadísticas.
+* Elementos Principales: Menú para tipo de reporte (ej. "Equipos más dañados"), selector de fechas y botón "Exportar a PDF".
+* Funcionalidad: Genera reportes históricos y estadísticos sobre el estado de los equipos para facilitar la planificación a la Jefatura del departamento.

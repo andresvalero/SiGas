@@ -1,0 +1,4 @@
+* Archivos principales: auditoria.html, scanner_qr.js (incluye librería HTML5-QRCode).
+* Diseño de la interfaz: Pantalla interactiva que integra una vista en tiempo real de la cámara del dispositivo para el escaneo.
+* Elementos Principales: Visor de la cámara, barra de estado de escaneo (ej. "¡Equipo PC-05 Verificado!") y botón de "Finalizar Auditoría".
+* Funcionalidad: Activa la cámara del celular o computadora para escanear el QR físico de los equipos, actualizando instantáneamente la fecha de verificación en el sistema y mostrando alertas de confirmación.

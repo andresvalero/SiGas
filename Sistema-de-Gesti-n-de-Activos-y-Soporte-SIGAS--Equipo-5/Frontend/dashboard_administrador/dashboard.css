@@ -1,0 +1,61 @@
+/* Configuración base para evitar el brinco de la pantalla */
+body {
+    overflow-y: scroll;
+    margin: 0;
+    padding: 0;
+}
+
+/* Sidebar Estilo Final (Unificado para todo el sistema) */
+.sidebar {
+    background-color: #111827;
+    min-width: 280px;
+    height: 100vh;
+    position: sticky;
+    top: 0;
+}
+
+.sidebar a {
+    color: #9ca3af;
+    text-decoration: none;
+    padding: 10px 25px;
+    display: block;
+    transition: 0.3s;
+    font-size: 0.9rem;
+}
+
+.sidebar a:hover {
+    background-color: rgba(255, 255, 255, 0.05);
+    color: white;
+}
+
+.sidebar a.active {
+    background-color: #3b82f6;
+    color: white;
+}
+
+/* Estilos de Contenido Principal */
+.main-content {
+    background-color: #f8fafc;
+}
+
+.stat-card {
+    background-color: white;
+    border-radius: 12px;
+    padding: 25px;
+    border: none;
+    transition: transform 0.2s ease;
+}
+
+.stat-card:hover {
+    transform: translateY(-5px);
+}
+
+.stat-icon {
+    font-size: 24px;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+}

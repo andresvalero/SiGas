@@ -1,0 +1,4 @@
+Archivos principales: prestamos.html, devoluciones.html, validaciones.js.
+* Diseño de la interfaz: Interfaz con formularios de registro y ventana emergente (modal) para reportar daños durante la devolución.
+* Elementos Principales: Campo para escanear QR , botones de "Devolver en Buen Estado" y botón rojo de "Reportar Daño / Falla".
+* Funcionalidad: Registra la salida de equipos validando que el alumno no tenga adeudos. En la devolución, permite cambiar automáticamente el estado a "En Mantenimiento" si se reporta una falla

@@ -1,0 +1,4 @@
+Archivos principales: dashboard.html, sidebar.css, panel_admin.js.
+* Diseño de la interfaz: Panel de control (Dashboard) con un menú lateral de navegación y tarjetas de indicadores rápidos en la pantalla principal.
+* Elementos Principales: Menú lateral con opciones ("Catálogo de Equipos", "Usuarios", etc.) y tarjetas de resumen numérico ("Equipos Prestados Hoy", "Material con Bajo Stock").
+* Funcionalidad: Funciona como la pantalla de inicio central para el Administrador, permitiendo monitorear un resumen del estado del inventario y acceder a los demás módulos del sistema.
